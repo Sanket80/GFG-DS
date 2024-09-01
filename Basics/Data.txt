@@ -1,0 +1,2 @@
+whatever we write new , gets overwritten in the file and old data is overwrittenWill get AppendedWill get Appended in same lineThis will be insertecd in new line.
+I am Fine , What about you?.
